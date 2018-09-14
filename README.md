@@ -1,3 +1,6 @@
+# 2018-9-14
+I am confident that I am the best. You ignored my email, it is your loss, not mine. 
+
 # 2018-8-10
 心态有点崩，由于实验无法按期完成
 
