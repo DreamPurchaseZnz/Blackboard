@@ -1,3 +1,6 @@
+# 2018-9-15
+以国内院校为主，辅以国外院校，次之，国企
+
 # 2018-9-14
 I am confident that I am the best. You ignored my email, it is your loss, not mine. 
 
