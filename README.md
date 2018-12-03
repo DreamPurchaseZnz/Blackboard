@@ -1,10 +1,12 @@
 # 2018-12-3
 
-If you ready to challenge, ready to fail, ready to try, you can come and join us. We don't need some who is expert in some feilds but need someone who will be the expert of the feild in the future. When you look back in the future, you can be proud of what you have done in the past years because you have been a star in the sky of history. ------Inspired by Jack Yun Ma.
+**If you ready to challenge, ready to fail, ready to try, you can come and join us**. We don't need some who is expert in some feilds but need someone who will be the expert of the feild in the future. When you look back in the future, you can be proud of what you have done in the past years because you have been a star in the sky of history. ------Inspired by Jack Yun Ma.
 
-The successful mode is not the only one, or the world will become very boring.    ----Inspired by Jack Yun Ma
+**The successful mode is not the only one, or the world will become very boring**.    ----Inspired by Jack Yun Ma
 
 This is something like chinese saying "兼·爱", but this idea is different in the attitude. The former is more optimistic
+
+**WORK FOR FUTURE**
 
 
 # 2018-9-15
