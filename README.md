@@ -1,3 +1,7 @@
+# 2018-12-3
+If you ready to challenge, ready to fail, ready to try, you can come and join us. We don't need some who is expert in some feilds but need someone who will be the expert of the feild in the future. When you look back in the future, you can be proud of what you have done in the past years because you have been a star in the sky of history. ------Inspired by Jack Yun Ma.
+
+
 # 2018-9-15
 以国内院校为主，辅以国外院校，次之，国企
 
