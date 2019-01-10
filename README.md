@@ -4,7 +4,18 @@
  先分类
  再按类别摆放、寄送
  ```
-
+ 
+ 斐波那契数列的数字的简单按顺序排列并不能代表斐波那契数列，能够表达的是算法性的过程，通过实施公式性表达，根据生成过程，能够非常自然地产生斐波那契序列的数字。
+ 
+ 也就是，同样的实物，简单的模仿排序，无法获得真知，必须通过生成过程来获得其算法系统性的表达，而这个生成过程就是事物之间根本性的本质区别。
+ 这种本质区别将会赋予相同实物不同生命力，学形易学神难，以不变应万变中不变的是处理事情的准则，变化的是处理事情的场景。
+ 
+ 
+ 
+ ```
+The digits of the Fibonacci sequence do not build the Fibonacci sequence by simply arranging themselves in the right oder (something that may be difficult to scale and generalize ) but are constructed from an algorithmic process implementing a formula able to produce the digits of the Fibonacci sequence in the natural order according to a generative process. -nature
+ ```
+ 
 
 # 2018-12-24
 扮猪吃老虎 （汉语成语） 
