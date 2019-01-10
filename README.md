@@ -13,7 +13,12 @@
  
  
  ```
-The digits of the Fibonacci sequence do not build the Fibonacci sequence by simply arranging themselves in the right oder (something that may be difficult to scale and generalize ) but are constructed from an algorithmic process implementing a formula able to produce the digits of the Fibonacci sequence in the natural order according to a generative process. -nature
+The digits of the Fibonacci sequence do not build the Fibonacci sequence 
+by simply arranging themselves in the right oder
+(something that may be difficult to scale and generalize ) 
+but are constructed from an algorithmic process 
+implementing a formula able to produce the digits of the Fibonacci sequence in the natural order 
+according to a generative process. -nature
  ```
  
 
